@@ -67,8 +67,6 @@ body {
 
 .nft-card-container {
     background-color: var(--card-bg);
-    /* FIXME: this with is for dev only change to max width and add margin/padding for smaller screens  */
-    /* width: calc(375px - 24px - 24px); */
     max-width: 350px;
     padding: 1.5rem;
     border-radius: 1rem;
